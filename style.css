@@ -1,0 +1,11 @@
+/* ===== Lab 3 · Ex.1 — the nav becomes a bar ===== */
+
+nav {
+    background-color: mintcream;
+    padding: 10px 16px;
+    border-bottom: 2px solid seagreen;
+}
+
+nav a {
+    margin-right: 18px;
+}
